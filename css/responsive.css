@@ -1,0 +1,22 @@
+
+@media (max-width: 992px){
+	.middle .text a{
+		top: -20%;
+	    left: 18%;
+	}
+}
+@media (max-width: 768px){
+	.my-counter{
+		height: 570px;
+	}
+	.middle .text a{
+		top: -14%;
+	    left: 21%;
+	}
+}
+@media (max-width: 576px){
+	.middle .text a{
+		top: 20%;
+	    left: 38%;
+	}
+}
